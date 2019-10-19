@@ -33,9 +33,9 @@ def banner():
 	print (Y+" | "+G+"|  |        |  |  |  |  /  /\  \  "+R+"|/ | |  |  |_ |p] "+Y+"      |")
 	print (Y+" | "+G+"|__|        |__|  |__| /__/  \__\ "+R+"|\ | |_ |_ |_ |^\  "+Y+"     |")
 	print (Y+" | "+R+"Hash Cracker "+W+"0.3.0.2"+Y+"  By : Nicoleus Sitorus               |")
-	print (Y+" | "+B+"["+W+">"+B+"]"+W+" Author : ./Nicoleus Sitorus"+Y+"                       |")
-	print (Y+" | "+B+"["+W+">"+B+"] "+W+"FACEBOOK   : Nicoleus Sitorus "+Y+"                    |")
-        print (Y+" | "+B+"["+W+">"+B+"] "+W+"YOUTUBE  : Ady sitorus ady "+Y+"                       |")                  
+	print (Y+" | "+B+"["+W+">"+B+"]"+W+" Author : ./Nicoleus Sitorus"+Y+"                                         |")
+	print (Y+" | "+B+"["+W+">"+B+"] "+W+"FACEBOOK   : Nicoleus Sitorus "+Y+"                                      |")
+        print (Y+" | "+B+"["+W+">"+B+"] "+W+"YOUTUBE  : Ady sitorus ady "+Y+"                                         |")                  
 	print (Y+" |        "+B+"      ["+R+"+"+B+"] "+W+"python2 "+sys.argv[0]+" --info "+B+"["+R+"+"+B+"]"+Y+"      |")
 	print (Y+" 0{=========================================================}0\n")
 
